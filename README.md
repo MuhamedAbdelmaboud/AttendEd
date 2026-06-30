@@ -4,7 +4,8 @@
 A machine learning web app that predicts a student's final grade (A through F) based on academic and behavioral data, including study time, attendance, and parental support.
 AttendEd (Attendance + Education) Based on the most valuble features at the data
 
-Built as a course project by Abdelmaboud and Genidy.
+Built as a course project by Ahmed Genidy and Muhamed Abdelmaboud.
+Ai course at Creativa Giza
 
 ## Live Demo
 
